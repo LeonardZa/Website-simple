@@ -1,0 +1,56 @@
+
+/* Style website Body */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: #000;
+}
+/* Title website */
+#title {
+  padding: 20px;
+  font-size: 35px;
+  text-align: center;
+  font-family: Times New Roman;
+  background: #C1C1C1;
+}
+/* Information main */
+.info-main {
+  height: 330px;
+  background-color: #000;
+  text-align: center;
+}
+#web {
+  margin: 2px;
+  text-decoration: underline 2px;
+  text-align: center;
+  padding-top: 100px;
+  font-size: 40px;
+  color: white;
+}
+#creator {
+  text-decoration: none;
+  font-size: 22px;
+  color: #C0C0C0;
+}
+
+/* Final */
+.credit {
+  padding: 30px;
+  height: 200px;
+  background-color: #303030;
+  color: white;
+  -webkit-border-top-left-radius: 300px;
+  -webkit-border-top-right-radius: 300px;
+}
+#cred {
+  text-align: center;
+  font-size: 20px;
+}
+#cred2 {
+  font-size: 18px;
+  text-align: center;
+  color: #C1C1C1;
+}
